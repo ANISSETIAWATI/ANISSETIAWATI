@@ -33,7 +33,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">[CIPPUNG]</h3>
-      <a href="[file:///D:/Project%20LIDM/Gp/CIPPUNG/CIPPUNG.html]" target="_blank"><img src="[LINK-GAMBAR-PREVIEW-PROYEK]" width="100%"></a>
+      <a href="[file:///D:/Project%20LIDM/Gp/CIPPUNG/CIPPUNG.html]" target="_blank"><img src="[https://github.com/ANISSETIAWATI/ans/issues/1#issue-3349032444]" width="100%"></a>
       <p align="center">
     Platform pembelajaran digital berbasis web yang dirancang untuk melestarikan bahasa dan budaya Lampung. Peran saya dalam proyek ini adalah sebagai Full-Stack Developer, yang bertanggung jawab merancang arsitektur web serta mengembangkan fitur-fitur utama.
         <br><br>
