@@ -1,40 +1,59 @@
-<h1>Hey there 👋, I'm Anis!</h1>
+<h1>Hey there 👋, I'm Anis Setiawati!</h1>
 
+### 🧑‍💻 A bit about me
+- 🎓 Pursuing a degree in Electrical Engineering at the University of Lampung.
+- 💻 Passionate about software development and its intersection with hardware, with a keen interest in Artificial Intelligence (AI) and IoT.
+- 🚀 Focusing specifically on both Frontend and Backend development.
+- 🎯 Passionate about building functional, responsive, and user-friendly web applications.
+- 🌱 A quick learner, always eager to explore and master new technologies.
 
-###  🧑‍💻 A bit about me
-- I am currently pursuing a degree in Electrical Engineering at the University of Lampung and am deeply enthusiastic about the world of software development.
-- My focus is on Frontend and Backend development, where I enjoy building functional and responsive web applications.
-- As a quick learner, I am always eager to explore new technologies and actively seek opportunities to collaborate on innovative web projects.
-
-
-###  🛠️Tech I'm familiar with
-<p align="left">
+### 🛠️ Tech I'm familiar with
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
+### 💼 My Experiences
+- **Intern** @ Lampung Sikam `(April 2025 - Present)`
+  - Merancang arsitektur dan antarmuka pengguna (UI/UX) untuk aplikasi web.
+  - Mengembangkan fitur-fitur utama menggunakan **Python** dan **Bootstrap**.
+  - Berkolaborasi dengan tim untuk melakukan testing dan debugging.
 
-###  💼My Experiences
+### 📌 Showcase Proyek Pertama
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">[CIPPUNG]</h3>
+      <a href="[file:///D:/Project%20LIDM/Gp/CIPPUNG/CIPPUNG.html]" target="_blank"><img src="[LINK-GAMBAR-PREVIEW-PROYEK]" width="100%"></a>
+      <p align="center">
+    Platform pembelajaran digital berbasis web yang dirancang untuk melestarikan bahasa dan budaya Lampung. Peran saya dalam proyek ini adalah sebagai Full-Stack Developer, yang bertanggung jawab merancang arsitektur web serta mengembangkan fitur-fitur utama.
+        <br><br>
+        <a href="[LINK-KE-REPOSITORY]" target="_blank">
+          <img src="https://img.shields.io/badge/Lihat_Kode-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
+</table>
 
-- **Intern** @Lampung Sikam `(April 2025 - sekarang)` Merancang dan mengembangkan aplikasi web menggunakan phyton dan bootstrap.
-
-
-
-###  🤝Let's Connect
-
-<p align="left">
-<a href="mailto:[anissetiawati2612@gmail.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anis-setiawati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anis Setiawati" height="30" width="40" /></a>
-<a href="https://instagram.com/[anssetwt_26]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anis Setiawati" height="30" width="40" /></a>
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/anis-setiawati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anis Setiawati" height="30" width="40" /></a>
+  <a href="https://instagram.com/anssetwt_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anis Setiawati" height="30" width="40" /></a>
 </p>
 
-
-
-###  📈My GitHub Stats
-
+### 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ANISSETIAWATI&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anis Setiawati's GitHub Stats" />
   <br/>
