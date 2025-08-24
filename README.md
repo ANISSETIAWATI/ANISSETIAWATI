@@ -29,21 +29,25 @@
   - Berkolaborasi dengan tim untuk melakukan testing dan debugging.
 
 ### 📌 Showcase Proyek Pertama
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">[CIPPUNG]</h3>
-      <a href="[file:///D:/Project%20LIDM/Gp/CIPPUNG/CIPPUNG.html]" target="_blank"><img src="[https://github.com/ANISSETIAWATI/ans/issues/1#issue-3349032444]" width="100%"></a>
-      <p align="center">
-    Platform pembelajaran digital berbasis web yang dirancang untuk melestarikan bahasa dan budaya Lampung. Peran saya dalam proyek ini adalah sebagai Full-Stack Developer, yang bertanggung jawab merancang arsitektur web serta mengembangkan fitur-fitur utama.
+      <h3 align="center">“CIPPUNG” CAWA BUDAYA LAMPUNG SEBAGAI <br> </h3>
+      <p> 
         <br><br>
-        <a href="[LINK-KE-REPOSITORY]" target="_blank">
-          <img src="https://img.shields.io/badge/Lihat_Kode-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
+        <p align="center">
+          <a href="https://github.com/ANISSETIAWATI/cippung-cawa-budaya-lampung" target="_blank">
+            <img src="https://img.shields.io/badge/Lihat_Kode-181717?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
       </p>
     </td>
-    <td width="50%" valign="top">
-      </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/ANISSETIAWATI/cippung-cawa-budaya-lampung" target="_blank">
+        <img src="http://googleusercontent.com/file_content/38" width="80%">
+      </a>
+    </td>
   </tr>
 </table>
 
