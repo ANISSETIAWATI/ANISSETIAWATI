@@ -26,7 +26,7 @@
 ###  🤝Let's Connect
 
 <p align="left">
-<a href="mailto:[anissetiawati2612@gmail.com]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:[anissetiawati2612@gmail.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anis-setiawati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anis Setiawati" height="30" width="40" /></a>
 <a href="https://instagram.com/[anssetwt_26]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Anis Setiawati" height="30" width="40" /></a>
 </p>
