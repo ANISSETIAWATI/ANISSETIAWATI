@@ -27,8 +27,8 @@ Electrical Engineering student at the University of Lampung, passionate about AI
 
 ### 🎀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANISSETIAWATI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FADADD&title_color=FF69B4&icon_color=FF1493&text_color=000000" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANISSETIAWATI&theme=tokyonight&hide_border=true&background=FADADD&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANISSETIAWATI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=FADADD&title_color=FF69B4&icon_color=FF1493&text_color=000000" height="100"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANISSETIAWATI&theme=tokyonight&hide_border=true&background=FADADD&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" height="100"/>
 </p>
 
 
@@ -39,8 +39,6 @@ Electrical Engineering student at the University of Lampung, passionate about AI
   <a href="mailto:\anissetiawati2612@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="[https://instagram.com/anssetwt_26](https://www.instagram.com/anssetwt26/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-
 
 <p align="center">
   <img src="https://i.ibb.co/WVqrdF1/cute-footer.gif" width="80%" alt="Footer"/>
