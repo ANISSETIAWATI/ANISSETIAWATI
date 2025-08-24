@@ -45,7 +45,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ANISSETIAWATI/cippung-cawa-budaya-lampung" target="_blank">
-        <img src="http://googleusercontent.com/file_content/38" width="80%">
+        <img src="">
       </a>
     </td>
   </tr>
