@@ -25,8 +25,10 @@ Electrical Engineering student at the University of Lampung, passionate about AI
 
 ### 🎀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANISSETIAWATI&show_icons=true&hide_border=true&bg_color=FADADD&title_color=FF69B4&icon_color=FF1493&text_color=000000&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANISSETIAWATI&hide_border=true&background=FADADD&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&stroke=000000" height="150"/>
+  <a href="https://github.com/anissetiawati">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANISSETIAWATI&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=000000&icon_color=FF1493&bg_color=FADADD"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ANISSETIAWATI&hide_border=true&background=FADADD&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&stroke=000000&sideNums=000000&sideLabels=000000&dates=000000"/>
+  </a>
 </p>
 
 
